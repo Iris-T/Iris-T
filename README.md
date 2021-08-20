@@ -15,6 +15,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitee](https://img.shields.io/badge/-Gitee-181717?style=flat-square&logo=gitee)
 
-### ✨ Recently
-#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-T)](https://github.com/anuraghazra/github-readme-stats)
+### ✨ This Year~
 #### <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Iris-T&show_icons=true&theme=vue&locale=cn" />
