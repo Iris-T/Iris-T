@@ -1,6 +1,6 @@
 ### Hi~ Here is @Iris-T
 - 🏡 技术博客：<a href="https://www.cnblogs.com/irispassionguy/" target="_blank">irisguy's blog</a>
-- 💬 邮箱：supiris@foxmail.com || 3020034289@qq.com
+- 💬 邮箱：supiris@foxmail.com || foxiris@qq.com
 - ⭐️ GitHub镜像站：<a href="https://gitee.com/runood_iris" target="_blank">Irisguy's Gitee</a>
 
 ### ⚡ Technologies  
