@@ -8,8 +8,8 @@
 ![Python](https://img.shields.io/badge/-Python-FDE264?style=flat-square&logo=Python&logoColor=326C9C)
 ![Spring](https://img.shields.io/badge/-Spring-6CB252?style=flat-square&logo=Spring&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-MySQL-D59D52?style=flat-square&logo=mysql&logoColor=066289)
-![HTML5](https://img.shields.io/badge/-H5-6CB252?style=flat-square&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/-JS-FF6C01?style=flat-square&logo=JavaScript&logoColor=white)
+![Hive](https://img.shields.io/badge/-Hive-FF5555?style=flat-square&logo=Hive&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
